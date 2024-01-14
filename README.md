@@ -1,4 +1,4 @@
-**English** | [中文](https://github.com/LXYan2333/Fabric-Bedrock-Miner/blob/main/README_中文.md)
+**English** | [中文](https://github.com/xiaoliyuanpp/Fabric-Bedrock-Miner-Super/blob/main/README_中文.md)
 
 # Fabric-Bedrock-Miner
 A Fabric client mod to "mine" bedrock!
@@ -15,11 +15,8 @@ Have the following items ready:
 4. Redstone torches
 5. Slime blocks
 
-Right click bedrock **with an empty hand** to switch on/off.
+Right click any blocks that cannot be destroyed in survival mode **with an empty hand** to switch on/off.
 
-While the mod is enabled, left click bedrock to "mine" it.
+While the mod is enabled, left click any blocks that cannot be destroyed in survival mode to "mine" it.
 
 If my mod saves you tons of time, please considering leave me a star.
-
-# Compile
-Checkout to the corresponding Minecraft version and compile following the Fabric wiki.
