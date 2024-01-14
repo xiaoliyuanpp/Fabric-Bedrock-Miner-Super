@@ -1,7 +1,7 @@
-[English](https://github.com/LXYan2333/Fabric-Bedrock-Miner/blob/main/README.md) | **中文**
+[English](https://github.com/xiaoliyuanpp/Fabric-Bedrock-Miner-Super/blob/main/README.md) | **中文**
 
 # Fabric-Bedrock-Miner
-帮你“挖掘”基岩的客户端 Fabric mod！
+帮你“挖掘”各种"坚不可摧"方块的客户端 Fabric mod！
 
 # 视频
 https://www.youtube.com/watch?v=b8Y86yxjr_Y  
@@ -15,10 +15,10 @@ https://www.bilibili.com/video/BV1Fv411P7Vc
 4. 一些红石火把
 5. 黏液块若干
 
-**空手**右键基岩启动 mod（注意要空手）
+**空手**右键任意无法在生存模式破坏的方块启动 mod（注意要空手）
 
-启动后，左键基岩，mod 会自动破除基岩。
+启动后，左键任意无法在生存模式破坏的方块，mod 会自动破除它。
 
-再次空手右键基岩关闭 mod。
+再次空手右键这些方块关闭 mod。
 
 如果本 mod 帮你节省了大量时间的话，给个 Star 呗 qwq。
