@@ -1,6 +1,6 @@
 [English](https://github.com/xiaoliyuanpp/Fabric-Bedrock-Miner-Super/blob/main/README.md) | **中文**
 
-# Fabric-Bedrock-Miner
+# Fabric-Bedrock-Miner-Super
 帮你“挖掘”各种"坚不可摧"方块的客户端 Fabric mod！
 
 # 视频
