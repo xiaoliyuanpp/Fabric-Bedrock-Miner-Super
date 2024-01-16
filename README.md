@@ -1,6 +1,7 @@
 **English** | [中文](https://github.com/xiaoliyuanpp/Fabric-Bedrock-Miner-Super/blob/main/README_中文.md)
 
-# Fabric-Bedrock-Miner
+# Fabric-Bedrock-Miner-Super
+This is Fabric-Bedrock-Miner's modify version.
 A Fabric client mod to "mine" any blocks that cannot be destroyed in survival mode!
 
 # Showcase
