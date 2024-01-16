@@ -5,13 +5,14 @@
   "name": "Bedrock Miner",
   "description": "Client mod to mine bedrock!",
   "authors": [
-    "LXYan"
+    "LXYan",
+    "xiaoliyuanpp"
   ],
   "contact": {
     "homepage": "https://github.com/LXYan2333/Fabric-Bedrock-Miner",
     "sources": "https://github.com/LXYan2333/Fabric-Bedrock-Miner"
   },
-  "license": "",
+  "license": "GPL-3",
   "icon": "assets/bedrockminer/icon.png",
   "environment": "*",
   "entrypoints": {
